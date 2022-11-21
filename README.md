@@ -20,4 +20,6 @@
   - 4 is for the number of clusters and 2 is for the number of threads. Both can be changed.
   - To Visualize the results :- `python3 visualise.py b.txt`
   
+  github link:- https://github.com/mbodhisatwa/K--Means-Clustering-Using-OpenMP-Pthreads
+  
 
